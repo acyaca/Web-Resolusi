@@ -2,8 +2,10 @@ web rencana konten
 - java script
   - E56
   - framework javascript
-    - angular
-    - ract
+    - vue
+    - react
+- fundamental data dasar
 - php framework
   - laravel
 - interview
+- pyhton
