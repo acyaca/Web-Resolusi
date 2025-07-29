@@ -2,5 +2,6 @@ web rencana konten
 - java script
   - E56
   - framework javascript
+- fundamental data dasar
 - php framework
 - interview
