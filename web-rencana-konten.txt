@@ -2,6 +2,8 @@ web rencana konten
 - java script
   - E56
   - framework javascript
+    - view
 - fundamental data dasar
 - php framework
 - interview
+- pyhton
